@@ -16,7 +16,7 @@ while True:
     if num_int <= 0:
         break
 
-print('The maximus is', max_int)
+print('The maximum is', max_int)
 
 
 
